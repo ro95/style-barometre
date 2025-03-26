@@ -1,0 +1,9 @@
+.container-fluid {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    position: relative;
+}
+
+body {
+background-color:red;
+}
